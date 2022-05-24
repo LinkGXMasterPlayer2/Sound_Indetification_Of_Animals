@@ -1,0 +1,49 @@
+body{
+
+    font-family: 'Special Elite', cursive;
+    background: lightcoral;
+    text-shadow: 2px 2px black;
+    
+
+}
+.header_div{
+
+    color: royalblue;
+    background: white ;
+    text-shadow: 2px 2px black;
+}
+.header_div p{
+
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Whisper', cursive;
+    text-shadow: 2px 2px black;
+}
+.main_div button{
+
+        margin-top: 30px;
+        width:130px;
+        font-weight: bolder;
+        letter-spacing: 3px;
+        text-shadow: 2px 2px black;
+}
+.copy_right_footer{
+
+    position:fixed;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    background-color: cornsilk;
+    line-height:3;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+}
+#start_btn{
+    
+    font-family:'Special Elite', cursive;
+    font: icon;
+    color: black;
+    background-image:linear-gradient(rgb(255, 255, 255),rgb(249, 255, 255),rgb(199, 249, 249),rgb(143, 255, 255),rgb(0, 255, 255))
+}
